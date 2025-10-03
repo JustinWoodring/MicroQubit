@@ -8,6 +8,13 @@ MicroQubit brings quantum computing to embedded systems, implementing a full sta
 ![Platform](https://img.shields.io/badge/platform-Arduino%20UNO%20R4%20WiFi-00979D.svg)
 ![Qubits](https://img.shields.io/badge/qubits-10-brightgreen.svg)
 
+
+
+
+https://github.com/user-attachments/assets/fa12a53d-96fb-4fcb-b0d9-748c844322c5
+
+
+
 ## ✨ Features
 
 ### Quantum Simulation
